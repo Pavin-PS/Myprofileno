@@ -1,0 +1,107 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: cursive;
+	background-color: whitesmoke;
+}
+
+.nav-container{
+	width: auto;
+	height: 40px;
+	background-color: blue;
+	text-align: center;
+}
+
+.container{
+	margin: 100px;
+	margin-left: 400px;
+	display: flex;
+}
+
+.main_container{
+	text-align: center;
+	width: 300px;
+	height: 400px;
+	background-color: rgb(28, 149, 201);
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+.sub_container{
+	margin-top: 40px;
+	background-color: rgb(28, 149, 201);
+}
+
+.cnt-container{
+	width: 400px;
+	height: 400px;
+	background-color: white;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	text-align: center;
+	font-family: 'cursive;', sans-serif;
+}
+
+.pavin{
+	width: 150px;
+	height: 180px;
+	border-top-left-radius: 10px;
+	
+}
+
+.phmail{
+	display: flex;
+	width: auto;
+	height: auto;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 55px;
+	font-family: cursive;
+	font-size: 20px;
+	background-color: white;
+}	
+
+
+.account{
+	width: 30px;
+	height: 30px;
+	margin-top: 5px;
+	background-color: blue;
+}
+
+.Email{
+	margin-left: 30px;
+	background-color: white;
+}
+
+.head1{
+	margin-top: 5px;
+	color: lightskyblue;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.fbtwin{
+	width: 40px;
+	height: 40px;
+	display: flex;
+	background-color: white;
+}
+img{
+	height: 40px;
+	width: 40px;
+}
+.linkedin,.facebook,.twitter{
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color: white;
+}
+
+.design1{
+	width: auto;
+	height: 30px;
+	display: grid;
+}

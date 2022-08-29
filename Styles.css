@@ -1,0 +1,128 @@
+src="https://kit.fontawesome.com/d6c4c39e44.js" crossorigin="anonymous">
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.main-container{
+	height: 300px;
+	width: device wi;
+	background-color: lightcyan;
+	display: flex;
+}
+
+.ps{
+	width: 40px;
+	height: 50px;
+}
+
+img{
+	width: 150px;
+	height: 200px;
+	border-radius: 100%;
+	margin: 50px;
+}
+
+.text{
+	margin-left: 250px;
+	margin-top: 0px;
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+.twitter,.facebook,.linkedin,.instagram{
+	width: 30px;
+	height: 30px;
+}
+
+
+.fbtwli{
+	width: 60px;
+	height: 300px;
+	margin-left: 60px;
+}
+
+.contact{
+	width: 40px;
+	height: 60px;
+}
+
+.sub-container{
+	display: flex;
+	font-family: 'Space Grotesk', sans-serif;
+	margin: 0px;
+	width: auto;
+	height: auto;
+	background-color: whitesmoke;
+
+}
+
+.sub1-container, .sub2-container, .sub3-container, .sub4-container
+{
+	margin: 50px;
+	background-color:;
+	width: 500px;
+	height: auto;
+}
+
+.sub2-container, .sub3-container{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.sub1-container{
+	margin-right: 5px;
+}
+
+.sub2-container{
+	margin-left: 5px;
+}
+
+.sub-container2{
+	display: flex;
+	font-family: 'Space Grotesk', sans-serif;
+	margin-left: 0px;
+	width: auto;
+	height: auto;
+	background-color: whitesmoke;
+
+}
+
+.sub1-container2, .sub2-container2{
+	margin: 10px;
+	width: 500px;
+	height: auto;
+}
+
+.personal-total{
+	width: auto;
+	height: auto;
+	background-color: whitesmoke;
+	font-family: 'Space Grotesk', sans-serif;
+	
+}
+
+.personal-details{
+	margin-left: 220px;
+}
+
+.person-container{
+	width: auto;
+	height: auto;
+	display: flex;
+	text-decoration: blink;
+
+}
+
+.persondat1,.persondat2{
+	margin-left: 10px;
+	width: 500px;
+	height: auto;
+}
